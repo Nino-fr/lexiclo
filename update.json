@@ -4,31 +4,35 @@
       "updates": [
         {
           "version": "2.1.6",
-          "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.1.6.xpi"
+          "update_link": "https://nino-fr.github.io/lexiclo/easyeditos-2.1.6.xpi"
         },
         {
           "version": "2.1.7",
-          "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.1.7.xpi"
+          "update_link": "https://nino-fr.github.io/lexiclo/easyeditos-2.1.7.xpi"
         },
         {
           "version": "2.1.8",
-          "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.1.8.xpi"
+          "update_link": "https://nino-fr.github.io/lexiclo/easyeditos-2.1.8.xpi"
         },
         {
           "version": "2.1.9",
-          "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.1.9.xpi"
+          "update_link": "https://nino-fr.github.io/lexiclo/easyeditos-2.1.9.xpi"
         },
         {
           "version": "2.2.0",
-          "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.2.0.xpi"
+          "update_link": "https://nino-fr.github.io/lexiclo/easyeditos-2.2.0.xpi"
         },
         {
           "version": "2.3.1.1",
-          "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.3.1.1.xpi"
+          "update_link": "https://nino-fr.github.io/lexiclo/easyeditos-2.3.1.1.xpi"
         },
         {
           "version": "2.3.4",
-          "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.3.4.xpi"
+          "update_link": "https://nino-fr.github.io/lexiclo/easyeditos-2.3.4.xpi"
+        },
+        {
+          "version": "3.0.0",
+          "update_link": "https://nino-fr.github.io/lexiclo/easyeditos-3.0.0.xpi"
         }
       ]
     }

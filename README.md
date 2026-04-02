@@ -1,5 +1,5 @@
-# Easy Editos
-L'extension Chrome **_Easy Editos_** permet à l'utilisateur qui double-clique sur un mot dans un article du journal _Le Monde_ d'afficher ses définitions.
+# lexiclo
+L'extension Chrome **_Lexiclo_**, anciennement _Easy Editos_, permet à l'utilisateur qui double-clique sur un mot dans un article du journal _Le Monde_ d'afficher ses définitions.
 Les définitions sont tirées du *TLFi*, du *Littré*, du *Wiktionnaire*, et de *le-dictionnaire.com*.
 Les techniques utilisées sont le web scraping, la lemmatisation, les expressions régulières et le proxy.
 Cette extension fonctionne sur Google Chrome, Opera, Arc, Microsoft Edge et autres navigateurs basés 	sur _Chromium_, ainsi que sur les navigateurs basés sur *Firefox* (Mozilla Firefox, Mullvad...). Elle n'est pour l'instant pas disponible sur Safari.
@@ -13,4 +13,4 @@ Vous pouvez installer l'extension depuis le [webstore de Google](https://chromew
 Voir un [**aperçu vidéo**](https://www.youtube.com/watch?v=ELmvwv4ExOg).
 
 ## LICENSE
-© Nino François 2025. Tous droits réservés.
+© Nino François 2026. Tous droits réservés.
