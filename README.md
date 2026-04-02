@@ -1,5 +1,6 @@
 # lexiclo
 L'extension Chrome **_Lexiclo_**, anciennement _Easy Editos_, permet à l'utilisateur qui double-clique sur un mot dans un article du journal _Le Monde_ d'afficher ses définitions.
+Cette extension peut être activée globalement pour tous les sites internet en activant l'option "Activer sur tous les sites" dans le menu déroulant en cliquant sur l'icône de l'extension.
 Les définitions sont tirées du *TLFi*, du *Littré*, du *Wiktionnaire*, et de *le-dictionnaire.com*.
 Les techniques utilisées sont le web scraping, la lemmatisation, les expressions régulières et le proxy.
 Cette extension fonctionne sur Google Chrome, Opera, Arc, Microsoft Edge et autres navigateurs basés 	sur _Chromium_, ainsi que sur les navigateurs basés sur *Firefox* (Mozilla Firefox, Mullvad...). Elle n'est pour l'instant pas disponible sur Safari.
